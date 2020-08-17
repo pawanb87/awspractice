@@ -41,7 +41,7 @@ Note: The guide may become obsolete with the future releases of AWS.
 
 18. Click on "Create Role" and in the next page select "Elastic Container Service" and then select "Elastic Container Service Task" and click "Next: Permissions".
 
-19. In the next page, search and select "AmazonEC2ContainerServiceRole" policy.
+19. In the next page, search and select "AmazonEC2ContainerServiceRole" policy and also Select "AmazonECSTaskExecutionRolePolicy" Policy.
 
 20. Leave default values in all other pages and enter role name of your choice in the last page and click "Create Role".
 
